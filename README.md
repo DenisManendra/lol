@@ -1,4 +1,4 @@
-# TheMatrix Theme for Omarchy
+# Lol Theme
 
 Phosphor-green digital rain on void black — a terminal-hacker take on
 [the 1999 film](https://en.wikipedia.org/wiki/The_Matrix) for
@@ -9,7 +9,7 @@ Phosphor-green digital rain on void black — a terminal-hacker take on
 ## Installation
 
 ```bash
-omarchy theme install https://github.com/CerealThriller/omarchy-the-matrix-theme
+omarchy theme install https://github.com/DenisManendra/lol
 ```
 
 Or from the Omarchy menu (`Super + Space`): _Install > Style > Theme_, then
